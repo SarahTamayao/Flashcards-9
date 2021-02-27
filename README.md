@@ -8,7 +8,7 @@
 ### App Walk-though
 `TODO://`
 
-<img src="ezgif.com-gif-maker (3).gif" width=200><br>
+<img src="https://imgur.com/a/4BSwkX3" width=200><br>
 
 `TODO://`
 
